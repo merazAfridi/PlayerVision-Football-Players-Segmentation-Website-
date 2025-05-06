@@ -38,9 +38,6 @@ This project utilizes two datasets related to football player segmentation for c
 ![Dataset Image Prediction](https://github.com/merazAfridi/PlayerVision-Football-Players-Segmentation-Website-/blob/main/evaluation.png)
 
 ---
-#### Metrics Evaluation
-![Metrics](https://github.com/merazAfridi/PlayerVision-Football-Players-Segmentation-Website-/blob/main/train%20val%20compare%20visualization.png)
-
 
 
 ### Attribution
