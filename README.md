@@ -14,7 +14,7 @@ This project utilizes two datasets related to football player segmentation for c
 
 ---
 
-1. [Football Player Segmentation Dataset](https://www.kaggle.com/datasets/ihelon/football-player-segmentation)
+[Football Player Segmentation Dataset](https://www.kaggle.com/datasets/ihelon/football-player-segmentation)
 
    This dataset contains images of football players in various playing positions, such as goalkeepers, defenders, midfielders, and forwards. The images are captured from different angles and distances. Each image is annotated with pixel-level masks that specify player locations and segmentation boundaries.
 
@@ -29,9 +29,7 @@ This project utilizes two datasets related to football player segmentation for c
 
 ---
 
-2. [Football Players Masks for Image Segmentation Dataset](https://www.kaggle.com/datasets/drmwnnrafi/football-players-masks-for-image-segmentation)
-
-   This dataset, derived from the ⚽ Football Players Segmentation ⚽ dataset by Yaroslav Isaienkov, converts the annotations from COCO JSON format to JPG format. The dataset includes images of 512 x 512 dimensions. The complete dataset, including original images and annotations, can be accessed via the provided link.
+This mask dataset, based on the  Football Players Segmentation dataset by Yaroslav Isaienkov, contains 512 x 512 images with annotations converted from COCO JSON to JPG format
 
 ---
 #### Image, Predicted MASK & GradCAM Analysis
@@ -44,10 +42,7 @@ This project utilizes two datasets related to football player segmentation for c
 ---
 
 ### Attribution
-
-I extend my gratitude to:  
-- [ihelon](https://www.kaggle.com/ihelon) for providing the **Football Player Segmentation Dataset**.  
-- [DrMwNNRafi](https://www.kaggle.com/drmwnnrafi) for creating the **Football Players Masks for Image Segmentation Dataset**, which is based on the dataset by Yaroslav Isaienkov.
+Special thanks to Yaroslav Isaienkov for the Football Players dataset and Rafi Darmawan for the corresponding mask annotations.
 
 
 
