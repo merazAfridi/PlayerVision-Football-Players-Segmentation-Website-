@@ -41,10 +41,11 @@ This mask dataset, based on the  Football Players Segmentation dataset by Yarosl
 
 ---
 
-### Attribution
+#### Attribution
 Special thanks to Yaroslav Isaienkov for the Football Players dataset and Rafi Darmawan for the corresponding mask annotations.
-
-
-
 Please refer to the respective links for detailed licensing and usage terms provided by the authors.
+
+---
+## Full Dataset & Saved Models
+For access to the full dataset and saved models, please reach out to **Gazi Meraz Mehedi Afridi** at [meraz.afridi@gmail.com](mailto:meraz.afridi@gmail.com)
 
